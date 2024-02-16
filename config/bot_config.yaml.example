@@ -1,0 +1,10 @@
+bot_token: token
+
+secret_token: "#secret_tg_token"
+webhook_url: "https://#ip/#path"
+url_path: "#path"
+port: "#port"
+certificate_path: "path/to/certificate.crt"
+
+tg_route: tg_route
+payment_route: payment_route
